@@ -1,0 +1,199 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "gilroy";
+
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+/* #back{
+    width: 100%;
+    height: 100%;
+   background-image: url(https://wallpaperaccess.com/full/6233787.jpg);
+   background-size: cover;
+}
+h1{
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    
+    
+    text-align: center;
+    transform: translate(-50%,-50%);
+    font-weight: 100;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 25px;
+    font-size: 50px;
+} */
+/* #main{
+    width: 100%;
+    height: 100%;
+    background-color: red;
+}
+#f{
+    width: 90%;
+    height: 90%;
+    background-color: blue;
+}
+#s{
+    width: 80%;
+    height: 80%;
+    background-color: green;
+}
+#t{
+    width: 70%;
+    height: 70%;
+    background-color: pink;
+}
+#fo{
+    width: 60%;
+    height: 60%;
+    background-color: black;
+}
+#fi{
+    width: 50%;
+    height: 50%;
+    background-color:;
+} */
+/* #main{
+    width: 100%;
+    height: 100%;
+   background-image: url(https://media.istockphoto.com/photos/group-of-black-and-white-lottery-balls-picture-id637732250);
+    background-size: cover;
+}
+#overlay{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.306);
+} 
+h1{
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    
+    
+    text-align: center;
+    transform: translate(-50%,-50%);
+    font-weight: 100;
+    font-family: "gilroy";
+    letter-spacing: 25px;
+    font-size: 50px;
+} */
+/* #back{
+    width: 100%;
+    height: 100%;
+   background-image: url(https://images.unsplash.com/photo-1438109491414-7198515b166b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80); 
+    background-size: cover;
+}
+#side{
+    width: 30%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.569);
+    padding: 20px;
+}
+h4{
+  font-size: 50px;  
+}
+h1{
+    font-size: 15px;
+}
+hr{
+    height: 3%;
+    border: 0cm;
+}
+h6{
+    font-weight: 500;
+    font-size: 15px;
+}
+input{
+    background-color: black;
+    color: white;
+    width: 160px;
+    height: 40px;
+    border-radius: 5px;
+    
+}
+#corner{
+    width: 10%;
+    height: 40%;
+    background-color:rgba(0, 128, 0, 0.183) ;
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 10px;
+    color: yellowgreen;
+}
+#half{
+    width: 100%;
+    height: 50%;
+    background-image: url(https://images.unsplash.com/photo-1524504388940-b1c1722653e1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80);
+    background-size: cover;
+}
+#half h1{
+    color: aqua;
+}
+#half p{
+    background-color: red;
+} */
+
+#main{
+    width: 100%;
+    height: 100%;
+    background-image: url(https://images.unsplash.com/photo-1554126807-6b10f6f6692a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+    background-size: cover;
+}
+#side{
+    width: 30%;
+    height: 100%;
+    background-color: red;
+    
+
+}
+#s1{
+    width: 100%;
+    height: 60%;
+    background-color: rgb(160, 236, 249);
+    /* position: relative; */
+}
+#s2{
+    width: 100%;
+    height: 40%;
+    background-color: white;
+    /* position: relative; */
+}
+#s2 p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* position: absolute; */
+    top: 35%;
+    left: 20%;
+    position: relative;
+
+}
+#text{
+    width: 90%;
+    height: 50%;
+    /* background-color: rgb(255, 0, 0); */
+    /* position: absolute; */
+    top: 30%;
+    left: 30%;
+    position: relative;
+    
+}
+#text p{
+    font-size: 45px;
+    color: white;
+    font-weight: 600;
+}
+hr{
+    height: 40px;
+    border: none;
+}
+h4{
+    font-size: 20px;
+    color: orange;
+}
